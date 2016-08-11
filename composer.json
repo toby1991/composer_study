@@ -1,0 +1,15 @@
+{
+    "name": "headfile/tsign",
+    "description": "http://itsm.tsign.cn/",
+    "authors": [
+        {
+            "name": "Toby Yan",
+            "email": "t.post@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
